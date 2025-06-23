@@ -9,12 +9,12 @@ const Projects = () => {
 
       {/* -------- Slider Button -------- */}
 
-      <div>
+      <div className='flex justify-end items-center mb-8'>
         <button className='p-3 bg-gray-200 rounded-2xl mr-2' aria-label='Previous Project'>
             <img src={assets.left_arrow} alt="Previous" />
         </button>
         <button className='p-3 bg-gray-200 rounded-2xl mr-2' aria-label='Previous Project'>
-            <img src={assets.right_arrow} alt="Previous" />
+            <img src={assets.right_arrow} alt="Next" />
         </button>
       </div>
     </div>
