@@ -4,7 +4,7 @@
 </head>
 <body>
 <h3>Navigation bar in different screen-size :</h3>
-<img src=".Navbar-big.png">
+<img src="./Navbar-big.png">
 <img src="./Navbar-small.png">
 <img src="./Navbar-menu.png"></br>
 <h3>This is the footer :</h3>
